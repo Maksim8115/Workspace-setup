@@ -1,0 +1,7 @@
+# learning.py
+# Author: [Maksim Alekseev]
+# Assignment #: 1
+# Date: 20250906
+
+print("I'm learning how to program in Python.")
+print("That's awesome!")
